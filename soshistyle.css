@@ -1,0 +1,19 @@
+.container{
+    margin-bottom: 50px;
+  
+}
+.orange-bg{
+    background-color: rgb(245, 188, 245);
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+button{
+    color: white;
+    background-color: purple;
+    border-radius: 5px;
+}
+.link{
+    color: purple;
+    
+}
