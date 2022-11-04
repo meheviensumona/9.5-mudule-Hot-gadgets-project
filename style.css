@@ -24,10 +24,11 @@
 
     /* card er design */
       .card{
-        padding: 50px;
-        border-radius: 20px;
-        border: white;
+    padding-top: 20px;
       
+      }
+      .col-sm-12{
+        padding-bottom:20px;
       }
 /* card er vitore button er style */
       .bye-now-button{
